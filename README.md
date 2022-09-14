@@ -1,16 +1,19 @@
-# sleep_app
+# Meditation app
 
-A new Flutter project.
+A Frontend Flutter project, only UI
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![meditation](https://user-images.githubusercontent.com/34665443/190067027-ac49cb96-e5e5-4bb8-8dce-a96389aca28f.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="EdgarSaenz | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />][twitter]
+[<img align="left" alt="EdgarSaenz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="EdgarSaenz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
+
+[twitter]: https://twitter.com/_EdgarAldair
+[instagram]: https://www.instagram.com/soy_edgarsaenz/
+[linkedin]: https://www.linkedin.com/in/edgar-saenz/
